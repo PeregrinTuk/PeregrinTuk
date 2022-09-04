@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hi! I'm Alejandro! 👋🏼🧔🏼💻
+<!--
+Lorem ipsum....
+-->
+
+### Skills and more...
+```js
+const peregrinTuk = {
+  code: ['Javascript', 'PHP', 'HTML', 'Sass', 'CSS'],
+  tools:  {
+            toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
+            toDesign: ['Figma', 'Photoshop', 'Illustrator', 'InDesign']
+          },
+  challenge: 'I'm creating my own personal web'
+}
+```
 
 <!--
 **PeregrinTuk/PeregrinTuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
