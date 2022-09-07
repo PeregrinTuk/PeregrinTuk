@@ -1,5 +1,6 @@
 ## Hi! I'm Alejandro! 👋🏼🧔🏼💻
 <!--
+## Hey there!
 Lorem ipsum....
 -->
 
@@ -11,7 +12,7 @@ const peregrinTuk = {
             toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
             toDesign: ['Figma', 'Photoshop', 'Illustrator', 'InDesign']
           },
-  challenge: 'I'm creating my own personal web'
+  challenge: 'I'm creating my personal web'
 }
 ```
 
