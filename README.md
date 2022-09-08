@@ -1,8 +1,9 @@
 <!--## Hi! I'm Alejandro! 👋🏼🧔🏼💻-->
 
 ## Hey there! 👋🏼🧔🏼💻
-I'm Alejandro, junior front-end developer with experience on JS, PHP, HTML, CSS and Sass. Also, in this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D
+I'm Alejandro, a junior front-end developer looking for new projects.
 
+At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D
 
 ### Skills and more...
 ```js
