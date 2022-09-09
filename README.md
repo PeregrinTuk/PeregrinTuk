@@ -1,13 +1,12 @@
-<!--## Hi! I'm Alejandro! 👋🏼🧔🏼💻-->
-
-## Hey there! 👋🏼🧔🏼💻
+# Hey there! 👋🏼🧔🏼💻
 I'm Alejandro, a junior front-end developer looking for new projects.
 
 At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D
 
-### Skills and more...
+
+## 🧰 Skills and more...
 ```js
-const peregrinTuk = {
+const PEREGRIN_TUK = {
   code: ['Javascript', 'PHP', 'HTML', 'Sass', 'CSS'],
   tools:  {
             toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
@@ -18,16 +17,17 @@ const peregrinTuk = {
 ```
 
 <!--
-**PeregrinTuk/PeregrinTuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 Projects
 
-Here are some ideas to get you started:
+- 🌐 Projecto 1 - Breve descripción.
+- 🌐 Projecto 2 - Breve descripción.
+- 👾 Projecto 3 - Breve descripción.
+- 🤖 Projecto 4 - Breve descripción.
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## 📫 Reach me
+
+Iconos de mis RRSS con enlace a las mismas.
+
 -->
