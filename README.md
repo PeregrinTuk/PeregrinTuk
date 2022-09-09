@@ -8,7 +8,7 @@ At this moment, I'm learning and consolidating on my background technologies lik
 ## 🧰 My toolbox
 ```js
 const PEREGRIN_TUK = {
-  code: ['Javascript', 'PHP', 'HTML', 'Sass', 'CSS'],
+  code: ['Javascript', 'HTML', 'CSS', 'Sass', 'PHP'],
   tools:  {
             toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
             toDesign: ['Figma', 'Photoshop', 'Illustrator', 'InDesign', 'WordPress']
