@@ -4,7 +4,8 @@ I'm Alejandro, a junior front-end developer looking for new projects.
 At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D
 
 
-## 🧰 Skills and more...
+<!--## 🧰 Skills and more...-->
+## 🧰 My toolbox
 ```js
 const PEREGRIN_TUK = {
   code: ['Javascript', 'PHP', 'HTML', 'Sass', 'CSS'],
