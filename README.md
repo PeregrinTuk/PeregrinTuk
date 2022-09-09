@@ -16,6 +16,17 @@ const PEREGRIN_TUK = {
   challenge: 'I resolved to create my personal web'
 }
 ```
+<div>
+  <img src="img/tch-logo-JS.png" alt="JavaScript" height="40px" width="20%"/>
+  <img src="img/tch-logo-JS.png" alt="JavaScript" height="40px"/>
+  <img src="img/tch-logo-HTML.png" alt="HTML" height="40px"/>
+  <img src="img/tch-logo-CSS.png" alt="CSS" height="40px"/>
+  <img src="img/tch-logo-Sass.png" alt="Sass" height="40px"/>
+  <img src="img/tch-logo-PHP.png" alt="PHP" height="40px"/>
+  <img src="img/tch-logo-Git.png" alt="Git" height="40px"/>
+  <img src="img/tch-logo-Node.png" alt="Node.js" height="40px"/>
+  <img src="img/tch-logo-React.png" alt="React" height="40px"/>
+</div>
 
 <!--
 ## 👨🏻‍💻 Projects
