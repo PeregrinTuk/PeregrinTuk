@@ -16,16 +16,57 @@ const PEREGRIN_TUK = {
   challenge: 'I resolved to create my personal web'
 }
 ```
+
+#### Frontend 
 <div>
-  <img src="img/tch-logo-JS.png" alt="JavaScript" height="40px" width="20%"/>
-  <img src="img/tch-logo-JS.png" alt="JavaScript" height="40px"/>
-  <img src="img/tch-logo-HTML.png" alt="HTML" height="40px"/>
-  <img src="img/tch-logo-CSS.png" alt="CSS" height="40px"/>
-  <img src="img/tch-logo-Sass.png" alt="Sass" height="40px"/>
-  <img src="img/tch-logo-PHP.png" alt="PHP" height="40px"/>
-  <img src="img/tch-logo-Git.png" alt="Git" height="40px"/>
-  <img src="img/tch-logo-Node.png" alt="Node.js" height="40px"/>
-  <img src="img/tch-logo-React.png" alt="React" height="40px"/>
+  <img 
+    src="img/tch-JS-XS.png"
+    alt="JavaScript"
+  />
+  <img 
+    src="img/tch-React-XS.png" 
+    alt="React"
+  />
+  <img 
+    src="img/tch-HTML-XS.png" 
+    alt="HTML"
+  />
+  <img 
+    src="img/tch-CSS-XS.png" 
+    alt="CSS"
+  />
+  <img 
+    src="img/tch-Sass-XS.png" 
+    alt="Sass"
+  />
+</div>
+
+#### Backend
+<div>
+  <img 
+    src="img/tch-Node-XS.png" 
+    alt="Node.js"
+  />
+  <img 
+    src="img/tch-PHP-XS.png" 
+    alt="PHP"
+  />
+</div>
+
+#### Database
+<div>
+</div>
+
+#### VCS
+<div>
+  <img 
+    src="img/tch-Git-XS.png" 
+    alt="Git"
+  />
+</div>
+
+#### Design
+<div>
 </div>
 
 <!--
@@ -37,9 +78,20 @@ const PEREGRIN_TUK = {
 - 🤖 Projecto 4 - Breve descripción.
 - ...
 
+-->
 
 ## 📫 Reach me
 
-Iconos de mis RRSS con enlace a las mismas.
+#### RRSS
 
+[![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
+[![Microsoft Docs](img/rrss-MicrosoftDocs-XS.png)](https://docs.microsoft.com/es-es/users/peregintuk/)
+[![LinkedIn](img/rrss-LinkedIn-XS.png)](https://www.linkedin.com/in/peregrintuk/)
+
+<!--
+- [<img 
+    src="img/tch-JS-XS.png"
+    alt="JavaScript" 
+    height="20px"
+  /> JavaScript](https://www.linkedin.com/in/peregrintuk/)
 -->
