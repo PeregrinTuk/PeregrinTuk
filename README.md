@@ -39,6 +39,10 @@ const PEREGRIN_TUK = {
     src="img/tch-Sass-XS.png" 
     alt="Sass"
   />
+  <img 
+    src="img/tch-Prepros-XS.png" 
+    alt="Prepros"
+  />
 </div>
 
 #### Backend
@@ -55,6 +59,11 @@ const PEREGRIN_TUK = {
 
 #### Database
 <div>
+  <img 
+    src="img/tch-MySQL-XS.png" 
+    alt="MySQL"
+    height="35px"
+  />
 </div>
 
 #### VCS
@@ -63,10 +72,30 @@ const PEREGRIN_TUK = {
     src="img/tch-Git-XS.png" 
     alt="Git"
   />
+  <img 
+    src="img/rrss-GitHub-XS.png" 
+    alt="GitHub"
+  />
 </div>
 
 #### Design
 <div>
+  <img 
+    src="img/dsgn-Figma-XS.png" 
+    alt="Figma"
+  />
+  <img 
+    src="img/dsgn-Photoshop-XS.png" 
+    alt="Photoshop"
+  />
+  <img 
+    src="img/dsgn-Illustrator-XS.png" 
+    alt="Illustrator"
+  />
+  <img 
+    src="img/dsgn-Indesign-XS.png" 
+    alt="Indesign"
+  />
 </div>
 
 <!--
