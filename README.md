@@ -13,7 +13,7 @@ const PEREGRIN_TUK = {
             toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
             toDesign: ['Figma', 'Photoshop', 'Illustrator', 'InDesign', 'WordPress']
           },
-  challenge: 'I resolved to create my personal web'
+  challenge: 'I resolved to create my personal website'
 }
 ```
 <!--_____________ -->
