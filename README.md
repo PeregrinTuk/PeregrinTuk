@@ -18,85 +18,30 @@ const PEREGRIN_TUK = {
 ```
 
 #### Frontend 
-<div>
-  <img 
-    src="img/tch-JS-XS.png"
-    alt="JavaScript"
-  />
-  <img 
-    src="img/tch-React-XS.png" 
-    alt="React"
-  />
-  <img 
-    src="img/tch-HTML-XS.png" 
-    alt="HTML"
-  />
-  <img 
-    src="img/tch-CSS-XS.png" 
-    alt="CSS"
-  />
-  <img 
-    src="img/tch-Sass-XS.png" 
-    alt="Sass"
-  />
-  <img 
-    src="img/tch-Prepros-XS.png" 
-    alt="Prepros"
-  />
-</div>
+[![JavaScript](img/tch-JS-XS.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![React](img/tch-React-XS.png)](https://es.reactjs.org/docs/getting-started.html)
+[![HTML](img/tch-HTML-XS.png)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](img/tch-CSS-XS.png)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![Sass](img/tch-Sass-XS.png)](https://sass-lang.com/documentation/)
+[![Prepros](img/tch-Prepros-XS.png)](https://prepros.io/help/getting-started)
+
 
 #### Backend
-<div>
-  <img 
-    src="img/tch-Node-XS.png" 
-    alt="Node.js"
-  />
-  <img 
-    src="img/tch-PHP-XS.png" 
-    alt="PHP"
-  />
-</div>
+[![Node](img/tch-Node-XS.png)](https://nodejs.org/es/docs/)
+[![PHP](img/tch-PHP-XS.png)](https://www.php.net/manual/es/getting-started.php)
 
 #### Database
-<div>
-  <img 
-    src="img/tch-MySQL-XS.png" 
-    alt="MySQL"
-    height="35px"
-  />
-</div>
+[![MySQL](img/tch-MySQL-XS.png)](https://dev.mysql.com/doc/)
 
 #### VCS
-<div>
-  <img 
-    src="img/tch-Git-XS.png" 
-    alt="Git"
-  />
-  <img 
-    src="img/rrss-GitHub-XS.png" 
-    alt="GitHub"
-  />
-</div>
+[![Git](img/tch-Git-XS.png)](https://git-scm.com/doc)
+[![GitHub](img/rrss-GitHub-XS.png)](https://github.com/about)
 
 #### Design
-<div>
-  <img 
-    src="img/dsgn-Figma-XS.png" 
-    alt="Figma"
-  />
-  <img 
-    src="img/dsgn-Photoshop-XS.png" 
-    alt="Photoshop"
-  />
-  <img 
-    src="img/dsgn-Illustrator-XS.png" 
-    alt="Illustrator"
-  />
-  <img 
-    src="img/dsgn-Indesign-XS.png" 
-    alt="Indesign"
-  />
-</div>
+[![Figma](img/dsgn-Figma-XS.png)](https://www.figma.com/about/)
+[![Photoshop](img/dsgn-Photoshop-XS.png)](https://helpx.adobe.com/es/support/photoshop.html)
+[![Illustrator](img/dsgn-Illustrator-XS.png)](https://helpx.adobe.com/es/support/illustrator.html)
+[![Indesign](img/dsgn-Indesign-XS.png)](https://helpx.adobe.com/es/support/indesign.html)
 
 <!--
 ## 👨🏻‍💻 Projects
@@ -116,11 +61,3 @@ const PEREGRIN_TUK = {
 [![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
 [![Microsoft Docs](img/rrss-MicrosoftDocs-XS.png)](https://docs.microsoft.com/es-es/users/peregintuk/)
 [![LinkedIn](img/rrss-LinkedIn-XS.png)](https://www.linkedin.com/in/peregrintuk/)
-
-<!--
-- [<img 
-    src="img/tch-JS-XS.png"
-    alt="JavaScript" 
-    height="20px"
-  /> JavaScript](https://www.linkedin.com/in/peregrintuk/)
--->
