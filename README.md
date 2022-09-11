@@ -42,6 +42,8 @@ const PEREGRIN_TUK = {
 [![Illustrator](img/dsgn-Illustrator-XS.png)](https://helpx.adobe.com/es/support/illustrator.html)
 [![Indesign](img/dsgn-Indesign-XS.png)](https://helpx.adobe.com/es/support/indesign.html)
 
+.
+
 <!--
 ## 👨🏻‍💻 Projects
 
