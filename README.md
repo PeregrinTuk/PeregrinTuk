@@ -1,8 +1,9 @@
 # Hey there! 👋🏼🧔🏼💻
-I'm Alejandro, a junior front-end developer looking for new projects.
+<!--I'm Alejandro, a junior front-end developer looking for new projects.-->
+I'm Alejandro, a junior front-end developer who feels a natural interest in understanding the world around him in order to create, repair and customize everything that comes to my mind or comes to my hands, whether it's a physical or digital element.
 
-At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D
-
+<!--At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D-->
+At the moment, I'm looking for new projects while I'm learning and consolidating knowledge about technologies like React or Node.js, among others... :D
 
 <!--## 🧰 Skills and more...-->
 ## 🧰 My toolbox
