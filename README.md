@@ -58,7 +58,7 @@ const PEREGRIN_TUK = {
 -->
 
 ## 📫 Reach me
-If you want to know more about me, feel free to contact me and follow me on my social networks. ;D
+If you want to know more about me, feel free to follow me and contact me on my social networks. ;D
 
 #### RRSS
 [![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
