@@ -1,11 +1,8 @@
 # Hey there! 👋🏼🧔🏼💻
-<!--I'm Alejandro, a junior front-end developer looking for new projects.-->
 I'm Alejandro, a junior front-end developer who feels a natural interest in understanding the world around him in order to create, repair and customize everything that comes to my mind or comes to my hands, whether it's a physical or digital element.
 
-<!--At this moment, I'm learning and consolidating on my background technologies like React or Node.js, among others... :D-->
 At the moment, I'm looking for new projects while I'm learning and consolidating knowledge about technologies like React or Node.js, among others... :D
 
-<!--## 🧰 Skills and more...-->
 ## 🧰 My toolbox
 ```js
 const PEREGRIN_TUK = {
@@ -14,7 +11,7 @@ const PEREGRIN_TUK = {
             toCode: ['Git', 'Node.js', 'React', 'Prepross', 'MySQL'],
             toDesign: ['Figma', 'Photoshop', 'Illustrator', 'InDesign', 'WordPress']
           },
-  challenge: 'I resolved to create my personal website'
+  challenge: 'I'm resolved to create my personal website'
 }
 ```
 <!--_____________ -->
@@ -57,8 +54,9 @@ const PEREGRIN_TUK = {
 
 -->
 
-## 📫 Reach me
-If you want to know more about me, feel free to follow me and contact me on my social networks. ;D
+<!--## 📫 Reach me-->
+## 📫 Contact me
+If you want to know more about me or get in touch with me, feel free to follow and contact me on my social networks. ;D
 
 #### RRSS
 [![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
