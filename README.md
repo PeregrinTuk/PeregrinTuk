@@ -54,7 +54,6 @@ const PEREGRIN_TUK = {
 
 -->
 
-<!--## 📫 Reach me-->
 ## 📫 Contact me
 If you want to know more about me or get in touch with me, feel free to follow and contact me on my social networks. ;D
 
