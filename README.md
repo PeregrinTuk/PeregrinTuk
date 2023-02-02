@@ -58,6 +58,9 @@ const PEREGRIN_TUK = {
 If you want to know more about me or get in touch with me, feel free to follow and contact me on my social networks. ;D
 
 #### RRSS
-[![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
-[![Microsoft Docs](img/rrss-MicrosoftDocs-XS.png)](https://docs.microsoft.com/es-es/users/peregintuk/)
 [![LinkedIn](img/rrss-LinkedIn-XS.png)](https://www.linkedin.com/in/peregrintuk/)
+[![Stack Overflow](img/rrss-StackOverflow-XS.png)](https://stackoverflow.com/users/17573223/peregrintuk)
+<!--
+[![Microsoft Docs](img/rrss-MicrosoftDocs-XS.png)](https://docs.microsoft.com/es-es/users/peregintuk/)
+-->
+
